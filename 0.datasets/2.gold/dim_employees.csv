@@ -1,0 +1,15 @@
+employee_id,first_name,middle_name,last_name,gender,employee_language,phone,email,login,address_id,valid_from,dwh_create_date
+0000000001,Derrick,L,Magill,Male,English,6303740306,derrick.magill@itelo.info,derrickm,1000000001,2000-01-01,2025-03-27 11:07:04.7766667
+0000000002,Philipp,T,Egger,Male,English,09603612464,philipp.egger@itelo.info,philippm,1000000002,2000-01-01,2025-03-27 11:07:04.7766667
+0000000003,Ellis,K,Robertson,Male,English,07086912288,ellis.robertson@itelo.info,ellism,1000000003,2000-01-01,2025-03-27 11:07:04.7766667
+0000000004,William,M,Mussen,Male,English,0267344556,william.mussen@itelo.info,williamm,1000000004,2000-01-01,2025-03-27 11:07:04.7766667
+0000000005,Javas,N/A,Hegde,Male,English,02224135120,javas.hegde@itelo.info,javasm,1000000005,2000-01-01,2025-03-27 11:07:04.7766667
+0000000006,Haseena al,N/A,Yousuf,Female,English,2288340,alhaseena.yousuf@itelo.info,haseenaalf,1000000006,2000-01-01,2025-03-27 11:07:04.7766667
+0000000007,Roberta,M,Holloway,Female,English,3065987404,roberta.holloway@itelo.info,robertaf,1000000007,2000-01-01,2025-03-27 11:07:04.7766667
+0000000008,Penelope,G,Duperre,Female,English,03234610404,penelope.duperre@itelo.info,penelopef,1000000008,2000-01-01,2025-03-27 11:07:04.7766667
+0000000009,Kirk,J,Lee,Male,English,8057566064,kirk.lee@itelo.info,kirkm,1000000009,2000-01-01,2025-03-27 11:07:04.7766667
+0000000010,Janet,R,Gray,Female,English,2018492465,janet.gray@itelo.info,janetf,1000000010,2000-01-01,2025-03-27 11:07:04.7766667
+0000000011,Nelson,J,Wilkens,Male,English,9162237055,nelson.wilkens@itelo.info,nelsonm,1000000011,2000-01-01,2025-03-27 11:07:04.7766667
+0000000012,Willard,R,Chatman,Male,English,4167946633,willard.chatman@itelo.info,willardm,1000000012,2000-01-01,2025-03-27 11:07:04.7766667
+0000000013,Carroll,S,Pewitt,Male,English,7806829921,carroll.pewitt@itelo.info,carrollm,1000000013,2000-01-01,2025-03-27 11:07:04.7766667
+0000000014,Kenneth,H,Weise,Male,English,4166095608,kenneth.weise@itelo.info,kennethm,1000000014,2000-01-01,2025-03-27 11:07:04.7766667
