@@ -1,0 +1,41 @@
+ptnr_id,ptnr_role,ptnr_email_address,ptnr_phone_number,ptnr_web_address,ptnr_address_id,ptnr_company_name,ptnr_legal_form,ptnr_created_by,ptnr_created_at,ptnr_changed_by,ptnr_changed_at,ptnr_currency,dwh_create_date
+100000000,Customer,maria.brown@all4bikes.com,622734567,http://www.all4bikes.com,1000000034,All For Bikes,Inc.,10,2018-10-03,10,2018-10-03,USD,2025-03-16 11:10:39.0400000
+100000001,Customer,bob.buyer@amazebikes.com,3088530,http://www.amazebikes.com,1000000035,Amaze Bikes Inc,Inc.,13,2018-10-03,13,2018-10-03,USD,2025-03-16 11:10:39.0400000
+100000002,Customer,victor.sanchez@arenasportusa.com,3023352668,http://www.arenasportusa.com,1000000036,Arena Sports Inc,Inc.,14,2018-10-03,14,2018-10-03,USD,2025-03-16 11:10:39.0400000
+100000003,Customer,franklin.jones@atlantausa.com,511403266,http://www.atlantausa.com,1000000037,Atlanta Corp Inc,Inc.,10,2018-10-03,10,2018-10-03,USD,2025-03-16 11:10:39.0400000
+100000004,Customer,robert_brown@bikeworlds.com,2244668800,http://www.bikeworlds.com,1000000038,Bike World Inc,Inc.,4,2018-10-03,4,2018-10-03,USD,2025-03-16 11:10:39.0400000
+100000005,Supplier,bart.koenig@alphabikes.de,2511415,http://www.alphabikes.de,1000000039,Alpha AG,AG,6,2018-10-03,6,2018-10-03,EUR,2025-03-16 11:10:39.0400000
+100000006,Supplier,sarah.schwind@buchungkreis-gmbh.de,9078563412,http://www.buchungkreis-gmbh.de,1000000040,BuchungsKreis 1010,GmbH,1,2018-10-03,1,2018-10-03,EUR,2025-03-16 11:10:39.0400000
+100000007,Supplier,mirjam.schmidt@trekcycle-berlin.de,149744423,http://www.trekcycle-berlin.de,1000000041,Trek Cycle AG,AG,8,2018-10-03,8,2018-10-03,EUR,2025-03-16 11:10:39.0400000
+100000008,Customer,saskia.sommer@tonabikes-ag.de,7257716,http://www.tonabikes-ag.de,1000000042,Tona Bikes AG,AG,8,2018-10-03,8,2018-10-03,EUR,2025-03-16 11:10:39.0400000
+100000009,Customer,dagmar.schulze@meinebicyclebayern.de,1133557799,http://www.meinebicyclebayern.de,1000000043,Meine Bicycle,GmbH,13,2018-10-03,13,2018-10-03,EUR,2025-03-16 11:10:39.0400000
+100000010,Supplier,jorgemontalban@avantegrande.co.uk,6789012345,http://www.avantegrande.co.uk,1000000044,Avante Grande Bikes,Ltd.,10,2018-10-03,10,2018-10-03,GBP,2025-03-16 11:10:39.0400000
+100000011,Customer,johanna.esther@bikeon.co.uk,6623612804,http://www.bikeon.co.uk,1000000045,Bike On,Ltd.,13,2018-10-03,13,2018-10-03,GBP,2025-03-16 11:10:39.0400000
+100000012,Supplier,miguel.luengo@carefreecycles.com,2589436180,http://www.carefreecycles.com,1000000046,Carefree Cycles,Ltd.,1,2018-10-03,1,2018-10-03,GBP,2025-03-16 11:10:39.0400000
+100000013,Supplier,isabel.nemours@gnmbikes.co.uk,4507867136,http://www.gnmbikes.co.uk/,1000000047,G&M Bicycle,Ltd.,8,2018-10-03,8,2018-10-03,GBP,2025-03-16 11:10:39.0400000
+100000014,Customer,igor.tarassow@keepcycling-london.co.uk,5850428367,http://www.keepcycling-london.co.uk,1000000048,Keep Cycling,Ltd.,6,2018-10-03,6,2018-10-03,GBP,2025-03-16 11:10:39.0400000
+100000015,Customer,alexis.harper@icareaussie.com.au,7609448173,http://www.icareaussie.com.au,1000000049,iCare Australia,Inc.,14,2018-10-03,14,2018-10-03,AUD,2025-03-16 11:10:39.0400000
+100000016,Customer,c.alfaro@ccsport.com.au,6879342945,http://www.ccsport.com.au,1000000050,CC SportWorld,Inc.,8,2018-10-03,8,2018-10-03,AUD,2025-03-16 11:10:39.0400000
+100000017,Customer,sven.j@digipay.com.au,2208791738,http://www.digipay.com.au,1000000051,DigiPay,Inc.,5,2018-10-03,5,2018-10-03,AUD,2025-03-16 11:10:39.0400000
+100000018,Supplier,yoshiko.kakuji@techcyclecanberra.com.au,4440238917,http://www.techcyclecanberra.com.au,1000000052,TechCycle Canberra,Inc.,8,2018-10-03,8,2018-10-03,AUD,2025-03-16 11:10:39.0400000
+100000019,Customer,alessio.galasso@ebike100.com,6328490087,http://www.ebike100.com,1000000053,eBike 100,Inc.,6,2018-10-03,6,2018-10-03,AUD,2025-03-16 11:10:39.0400000
+100000020,Supplier,sujaymishra@cycleworld.co.in,4050378468,http://www.cycleworld.co.in,1000000054,Cycle World,Ltd.,12,2018-10-03,12,2018-10-03,INR,2025-03-16 11:10:39.0400000
+100000021,Supplier,madhu.kumar@hitechsport.com,6065470312,http://www.hitechsport.com,1000000055,High Tech Sports Inc,Ltd.,8,2018-10-03,8,2018-10-03,INR,2025-03-16 11:10:39.0400000
+100000022,Supplier,pooja.singh@tiresonfire.co.in,7980023486,http://www.tiresonfire.co.in,1000000056,Tires On Fire,Ltd.,3,2018-10-03,3,2018-10-03,INR,2025-03-16 11:10:39.0400000
+100000023,Customer,ajaz.khan@mxbyk.com,3629731486,http://www.mxbyk.com,1000000057,MX Bike,Ltd.,8,2018-10-03,8,2018-10-03,INR,2025-03-16 11:10:39.0400000
+100000024,Supplier,aditya.rajput@fitnessworld.co.in,3206580974,http://www.fitnessworld.co.in,1000000058,FitnessWorld,Ltd.,1,2018-10-03,1,2018-10-03,INR,2025-03-16 11:10:39.0400000
+100000025,Supplier,mudassir.k@homerundubai.com,4580963184,http://www.homerundubai.com,1000000059,Homerun Millwork Inc.,Inc.,5,2018-10-03,5,2018-10-03,AED,2025-03-16 11:10:39.0400000
+100000026,Supplier,rehanshehzad@antoniobikes.com,1012697341,http://www.antoniobikes.com,1000000060,Antonio Bandolera,Inc.,4,2018-10-03,4,2018-10-03,AED,2025-03-16 11:10:39.0400000
+100000027,Supplier,sarfaraz.khan@khancycles.ae,7345697824,http://www.khancycles.ae,1000000061,Khan Cycles,Inc.,6,2018-10-03,6,2018-10-03,AED,2025-03-16 11:10:39.0400000
+100000028,Supplier,alam.sheikh@palmbeachbikes.ae,469614115,http://www.palmbeachbikes.ae,1000000062,Palm Beach Bike World,Inc.,7,2018-10-03,7,2018-10-03,AED,2025-03-16 11:10:39.0400000
+100000029,Supplier,bhushan.shetty@a2zfitnes.com,6839542781,http://www.a2zfitnes.com,1000000063,A to Z Fitness,Inc.,9,2018-10-03,9,2018-10-03,AED,2025-03-16 11:10:39.0400000
+100000030,Supplier,romain.le_mason@hudsonsport.ca,6714954542,http://www.hudsonsport.ca,1000000064,Hudson SportsTec,Ltd.,10,2018-10-03,10,2018-10-03,CAD,2025-03-16 11:10:39.0400000
+100000031,Customer,anthony.lebouef@ebike36.ca,2483693027,http://www.ebike36.ca,1000000065,Ebike 36,Ltd.,3,2018-10-03,3,2018-10-03,CAD,2025-03-16 11:10:39.0400000
+100000032,Customer,lisa.felske@wichitasport.com,2094573421,http://www.wichitasport.com,1000000066,Wichita Sport,Ltd.,1,2018-10-03,1,2018-10-03,CAD,2025-03-16 11:10:39.0400000
+100000033,Supplier,jonathan.d.mason@movebybike.ca,4136278910,http://www.movebybike.ca,1000000067,Move by Bike,Ltd.,1,2018-10-03,1,2018-10-03,CAD,2025-03-16 11:10:39.0400000
+100000034,Customer,amelie.troyat@techcycletoronto.ca,3540671320,http://www.techcycletoronto.ca,1000000068,TechCycle,Ltd.,4,2018-10-03,4,2018-10-03,CAD,2025-03-16 11:10:39.0400000
+100000035,Customer,sophie.ribery@yourcycleshop.fr,7315064077,http://www.yourcycleshop.fr,1000000069,YourCycleShop,S.A.R.L.,7,2018-10-03,7,2018-10-03,EUR,2025-03-16 11:10:39.0400000
+100000036,Supplier,jorge.velez@unolabmanufacturing.com,4381762683,http://www.unolabmanufacturing.com,1000000070,Unolab Manufacturing,S.A.R.L.,13,2018-10-03,13,2018-10-03,EUR,2025-03-16 11:10:39.0400000
+100000037,Customer,joseph_gschwandtner@ebike201.fr,9703586412,http://www.ebike201.fr,1000000071,E bike 201,S.A.R.L.,4,2018-10-03,4,2018-10-03,EUR,2025-03-16 11:10:39.0400000
+100000038,Customer,george_d_grant@thecyclefactor.fr,6843585642,http://www.thecyclefactor.fr,1000000072,The Cycle Factor,S.A.R.L.,3,2018-10-03,3,2018-10-03,EUR,2025-03-16 11:10:39.0400000
+100000039,Supplier,theodor.monathy@eiffelbikes.fr,4203876954,http://www.eiffelbikes.fr,1000000073,Eiffel Bikes,S.A.R.L.,9,2018-10-03,9,2018-10-03,EUR,2025-03-16 11:10:39.0400000

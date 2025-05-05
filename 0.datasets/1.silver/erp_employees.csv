@@ -1,0 +1,15 @@
+emp_id,emp_name_first,emp_name_middle,emp_name_last,emp_sex,emp_language,emp_phone_number,emp_email_address,emp_login_name,emp_address_id,emp_validity_start_date,dwh_create_date
+1,Derrick,L,Magill,Male,English,6303740306,derrick.magill@itelo.info,derrickm,1000000001,2000-01-01,2025-03-16 11:10:39.0400000
+2,Philipp,T,Egger,Male,English,9603612464,philipp.egger@itelo.info,philippm,1000000002,2000-01-01,2025-03-16 11:10:39.0400000
+3,Ellis,K,Robertson,Male,English,7086912288,ellis.robertson@itelo.info,ellism,1000000003,2000-01-01,2025-03-16 11:10:39.0400000
+4,William,M,Mussen,Male,English,267344556,william.mussen@itelo.info,williamm,1000000004,2000-01-01,2025-03-16 11:10:39.0400000
+5,Javas,,Hegde,Male,English,2224135120,javas.hegde@itelo.info,javasm,1000000005,2000-01-01,2025-03-16 11:10:39.0400000
+6,Haseena al,,Yousuf,Female,English,2288340,alhaseena.yousuf@itelo.info,haseena alf,1000000006,2000-01-01,2025-03-16 11:10:39.0400000
+7,Roberta,M,Holloway,Female,English,3065987404,roberta.holloway@itelo.info,robertaf,1000000007,2000-01-01,2025-03-16 11:10:39.0400000
+8,Pénélope,G,Duperré,Female,English,3234610404,penelope.duperre@itelo.info,penelopef,1000000008,2000-01-01,2025-03-16 11:10:39.0400000
+9,Kirk,J,Lee,Male,English,8057566064,kirk.lee@itelo.info,kirkm,1000000009,2000-01-01,2025-03-16 11:10:39.0400000
+10,Janet,R,Gray,Female,English,2018492465,janet.gray@itelo.info,janetf,1000000010,2000-01-01,2025-03-16 11:10:39.0400000
+11,Nelson,J,Wilkens,Male,English,9162237055,nelson.wilkens@itelo.info,nelsonm,1000000011,2000-01-01,2025-03-16 11:10:39.0400000
+12,Willard,R,Chatman,Male,English,4167946633,willard.chatman@itelo.info,willardm,1000000012,2000-01-01,2025-03-16 11:10:39.0400000
+13,Carroll,S,Pewitt,Male,English,7806829921,carroll.pewitt@itelo.info,carrollm,1000000013,2000-01-01,2025-03-16 11:10:39.0400000
+14,Kenneth,H,Weise,Male,English,4166095608,kenneth.weise@itelo.info,kennethm,1000000014,2000-01-01,2025-03-16 11:10:39.0400000
